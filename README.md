@@ -36,6 +36,11 @@ Usage
 4. Receive Notifications: Stay informed with real-time alerts on bus services.
 5. Provide Feedback: Share your experience and rate the service.
 
+6. ![FLOWCHART](https://github.com/user-attachments/assets/f3782592-a593-44df-a867-4c15009998ff)
+
+
+![ERD](https://github.com/user-attachments/assets/5c1d5a2f-34c7-4fa0-876c-e480f162e958)
+
 Contributing
 We welcome contributions to improve SAFARI CHAPP. Please follow these steps:
 1. Fork the repository.
